@@ -1,0 +1,4 @@
+- biến là một khái niệm dùng để lưu trữ dữ liệ
+- javascript sử dụng từ khoá var để khai báo biến hoặc không cần var 
+
+- dấu bằng để đăht giá trị hay gán giá trị cho biến

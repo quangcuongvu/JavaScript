@@ -1,0 +1,3 @@
+mảng array
+- khi muốn lưu nhiều gias trị trong cùng 1 biến
+- tất cả giá trị trong mảng đều chỉ có 1 tên phải thông qua chỉ số phần tử để tìm giá trị

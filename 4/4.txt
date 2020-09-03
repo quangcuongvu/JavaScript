@@ -1,0 +1,18 @@
+Quy trình học javascript:
+- học khái niệm cơ bản
+- áp dụng cho lập trình frontend (jquery viết nhanh hơn)
+- áp dụng cho lập trình backed (khoá về angular 4)
+
+javascript là 1 ngôn ngữ lập trình, ngăn cách bởi dấu ";"
+
+-câu lệnh trong javascript
++ biến
++ toán tử
++ comment
++ Identifiers (định danh)
+
+
+câu lệnh in ra màn hình console (f12 chrome)
+console.log("hello) 
+Sử dụng để check lỗi, in ra màn hình
+

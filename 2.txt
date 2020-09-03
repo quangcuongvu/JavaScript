@@ -1,0 +1,4 @@
+Cài đặt;
+- visual code (view in browser)
+- cài đặt 1 cái template
+- cấu trúc template gồm: font awesome, boostrap css

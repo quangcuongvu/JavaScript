@@ -1,0 +1,8 @@
+Học về javascript
+Yêu cầu:
+- biết html/css/bootstrap
+- javascript viết cho front end:
+    angular js, jquery...
+- javascript cho backed:
+    react js (fb), nodejs
+- Học javascript thay thế cho jquery
